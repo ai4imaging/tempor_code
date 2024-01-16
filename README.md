@@ -1,2 +1,2 @@
 # tempor_code
-Code for tempor mainly based on cryodrgn.
+Code for tempor (Recovering a molecule's 3D dynamics from liquid phase EM movies, ICCV2023) based on cryodrgn.
